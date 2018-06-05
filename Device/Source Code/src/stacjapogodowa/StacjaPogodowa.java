@@ -6,9 +6,9 @@
 package stacjapogodowa;
 
 /**
- *
+ * @brief Główna klasa automatycznej stacji pogodowej
  * @author Ania
- * Główna klasa automatycznej stacji pogodowej
+ * 
  */
 public class StacjaPogodowa {
 
